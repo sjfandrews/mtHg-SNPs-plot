@@ -1,4 +1,4 @@
-# Plotting Mitochondrial haplogroups defining SNPs
+# Plotting Mitochondrial haplogroup defining SNPs
 
 Mitochondrial haplogroups represent sets of similar haplotypes defined by SNVs that arrose as a result of sequential accumulation of mutations during prehistoric human migrations. Here we plot haplogroup defining SNPs on the mitochondrial genome.
 
