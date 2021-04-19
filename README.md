@@ -8,7 +8,7 @@ _SNPs defining European mitochondiral haplogroups._
 ## Installation
 
 ```
-git clone https://github.com/sjfandrews/mtHgs-SNPs-plot.git
+git clone https://github.com/sjfandrews/mtHg-SNPs-plot.git
 ```
 
 Dependencies include: `tidyverse`, `ggplot2`, `ggnewscale`, `pals`
